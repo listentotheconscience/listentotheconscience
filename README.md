@@ -3,7 +3,7 @@
 
 ### I'm developer
 - 🔭 I’m currently working on plugin for Minecraft "HaramCraft"
-- 🌱 I’m currently learning web-dev and desktop-dev
+- 🌱 Also learning web-dev and desktop-dev
 ***
 ### Languages
 ![Java](https://icons.iconarchive.com/icons/tatice/cristal-intense/32/Java-icon.png) 
