@@ -1,9 +1,10 @@
-### Hi there! I'm [listentotheconscience](https://listentotheconscience.github.io) (WIP)
+### Hi there! I'm [listentotheconscience](https://listentotheconscience.ru)
 ***
 
 ### I'm developer
 - 🔭 I’m currently working on plugin for Minecraft "HaramCraft"
 - 🌱 Also learning web-dev and desktop-dev
+- 🧛 Now I work as a backend developer
 ***
 ### Languages
 ![Java](https://icons.iconarchive.com/icons/tatice/cristal-intense/32/Java-icon.png) 
@@ -28,6 +29,6 @@
 [![Insta](https://image.flaticon.com/icons/png/32/2111/2111463.png)][2] 
 [![Tgram](https://image.flaticon.com/icons/png/32/2111/2111646.png)][3] 
 
-[1]: https://listentotheconscience.github.io
+[1]: https://listentotheconscience.ru
 [2]: https://www.instagram.com/iseethatshitlikethesharingan
 [3]: https://t.me/listentotheconscience
