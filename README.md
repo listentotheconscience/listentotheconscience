@@ -1,4 +1,4 @@
-### Hi there! I'm [listentotheconscience](https://listentotheconscience.ru)
+### Hi there! I'm listentotheconscience
 ***
 
 ### I'm developer
@@ -22,13 +22,3 @@
 </details>
 
 ***
-
-### Websites
-
-[![Site](https://image.flaticon.com/icons/png/32/1450/1450332.png)][1] 
-[![Insta](https://image.flaticon.com/icons/png/32/2111/2111463.png)][2] 
-[![Tgram](https://image.flaticon.com/icons/png/32/2111/2111646.png)][3] 
-
-[1]: https://listentotheconscience.ru
-[2]: https://www.instagram.com/iseethatshitlikethesharingan
-[3]: https://t.me/listentotheconscience
